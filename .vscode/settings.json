@@ -1,0 +1,5 @@
+{
+	"codemetrics.nodeconfiguration.ReturnStatement": 0,
+	"codemetrics.nodeconfiguration.FunctionDeclaration": 1,
+	"codemetrics.nodeconfiguration.ExportAssignment": 0
+}
