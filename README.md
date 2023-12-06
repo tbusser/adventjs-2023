@@ -1,5 +1,6 @@
-# ✨🎄 AdventJS 2023 🎄✨
+[![Solutions for AdventJs Challenges](https://github.com/tbusser/adventjs-2023/actions/workflows/test.yml/badge.svg)](https://github.com/tbusser/adventjs-2023/actions/workflows/test.yml)
 
+# ✨🎄 AdventJS 2023 🎄✨
 These are my solutions for the 2023 edition of [AdventJS](https://adventjs.dev/). This repository contains everything you need to run my solutions.
 
 ## Setup
